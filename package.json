@@ -2,9 +2,10 @@
   "name": "chaiaurbackend",
   "version": "1.0.0",
   "description": "A Backend at Chai aur Code - Hitesh Choudhary",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript",
@@ -12,5 +13,8 @@
     "Chai"
   ],
   "author": "Chinmay Kaitade",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
