@@ -1,0 +1,16 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "A Backend at Chai aur Code - Hitesh Choudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Chai"
+  ],
+  "author": "Chinmay Kaitade",
+  "license": "ISC"
+}
